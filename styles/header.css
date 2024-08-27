@@ -9,3 +9,7 @@
 .cabeçalho {
     background-color: var(--branco);
 }
+.lista-menu {
+    display: none;
+  }
+  
