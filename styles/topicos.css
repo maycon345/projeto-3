@@ -13,4 +13,6 @@
     flex-wrap: wrap;
     justify-content: center;
   }
-  
+  .tópicos__item {
+    margin: 2em 0.5em;
+}
