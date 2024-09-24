@@ -3,4 +3,9 @@
     text-align: center;
     padding: 1em 0;
   }
+  .tópicos__titulo {
+    color: var(--branco);
+    font-weight: 300;
+    margin-bottom: 1em;
+  }
   
